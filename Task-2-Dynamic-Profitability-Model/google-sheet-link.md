@@ -21,7 +21,7 @@ The goal is to support data-driven decision making rather than static reporting.
 
 ## Dynamic Profitability Model
 
-[PASTE GOOGLE SHEET LINK HERE]
+[\[GOOGLE SHEET LINK\]](https://docs.google.com/spreadsheets/d/13zaS9f1v4jllvk97KvCauAfjNApTmPHd5U4AlKuzu7Q/edit?usp=sharing)
 
 ---
 
