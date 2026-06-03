@@ -1,10 +1,14 @@
 # DeepThought AI Business Analyst Assignment (Ecommerce)
 
-## Candidate Information
+## Information
 
 **Name:** Ariyan Mishra  
 **Role Applied For:** AI Business Analyst (Ecommerce)  
 **Submission Date:** 27 May 2026
+
+Declaration
+
+This assignment submission reflects my own understanding, analysis, and work. AI tools were used only as a supporting aid for structuring content, improving clarity, correcting grammar, and refining presentation. All calculations, interpretations, assumptions, conclusions, and final decisions presented in this repository were reviewed and validated by me before submission. 
 
 ---
 
