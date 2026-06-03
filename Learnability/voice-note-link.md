@@ -21,7 +21,7 @@ The explanation focuses on:
 
 ## Google Drive Link
 
-[DRIVE LINK]
+[[DRIVE LINK]](https://drive.google.com/file/d/1gGNWOkJ82m8OsjE-xhDb5bfmuVoJAcyU/view?usp=drive_link)
 
 ---
 
