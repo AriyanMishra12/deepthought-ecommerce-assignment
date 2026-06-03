@@ -21,13 +21,13 @@ The explanation focuses on:
 
 ## Google Drive Link
 
-[PASTE YOUR DRIVE LINK HERE]
+[DRIVE LINK]
 
 ---
 
 ## Duration
 
-5+ Minutes
+\(\sim \) 14 Minutes
 
 ---
 
