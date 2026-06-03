@@ -185,32 +185,6 @@ Location:
 
 ---
 
-# Voice Notes
-
-## Learnability Voice Note
-
-Link:
-
-(To be added)
-
----
-
-## Task 1 Reflection Voice Note
-
-Link:
-
-(To be added)
-
----
-
-## Task 3 Reflection Voice Note
-
-Link:
-
-(To be added)
-
----
-
 # Assumptions
 
 Where assignment data was incomplete or open-ended, reasonable assumptions were made and explicitly stated within the relevant task documentation.
