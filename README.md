@@ -4,7 +4,6 @@
 
 **Name:** Ariyan Mishra  
 **Role Applied For:** AI Business Analyst (Ecommerce)  
-**Submission Date:** 27 May 2026
 
 Declaration
 
